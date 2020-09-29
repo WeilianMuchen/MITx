@@ -7,7 +7,7 @@ data(murders)
 head(murders)
 
 
-
+### Assessment 1.1: Data Types
 ## Exercise 1. Variable names
 ## Let's start by reviewing how to extract the variable names from a dataset using the names function. What are the two variable names used in the heights dataset?
 library(dslabs)
